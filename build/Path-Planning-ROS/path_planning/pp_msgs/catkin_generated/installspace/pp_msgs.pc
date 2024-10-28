@@ -1,0 +1,8 @@
+prefix=/home/michele/tema_anno_robotics/install
+
+Name: pp_msgs
+Description: Description of pp_msgs
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

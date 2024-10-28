@@ -1,0 +1,2 @@
+Path-Planning-ROS/kobuki_description:Path-Planning-ROS/path_planning/pp_msgs:Path-Planning-ROS/path_planning/srv_client_plugin:Path-Planning-ROS/path_planning/unit2_pp:Path-Planning-ROS/turtlebot_description
+-DCATKIN_DEVEL_PREFIX=/home/michele/tema_anno_robotics/devel -DCMAKE_INSTALL_PREFIX=/home/michele/tema_anno_robotics/install -G Unix Makefiles
